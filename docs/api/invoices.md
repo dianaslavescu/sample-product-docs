@@ -41,3 +41,5 @@ Returns a paginated list of invoices for the authenticated account.
 `GET /v2/invoices/{id}`
 
 Returns a single invoice by ID.
+
+## Add modifications
