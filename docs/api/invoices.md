@@ -45,4 +45,5 @@ Returns a single invoice by ID.
 ## Add modifications
 These are modifications added for lab.
 ## Add new modifications
-"BREAKING: removed deprecated endpoint /v1/users"
+BREAKING: removed deprecated endpoint /v1/users
+BREAKING: remove deprecated endpoint /v1/me
