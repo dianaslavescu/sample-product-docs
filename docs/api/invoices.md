@@ -1,5 +1,7 @@
 # Invoices API
 
+
+
 > **BREAKING CHANGE (v2):** The `amount_cents` field has been replaced with
 > `amount` (in major units, e.g., dollars) and `amount_minor` (in minor units, e.g., cents).
 > The `amount_cents` field will be removed entirely in v3.
